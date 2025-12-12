@@ -70,3 +70,6 @@ MoneyManage is a desktop application built using **Python + Tkinter** that helps
 Same structure as Income.
 
 ---
+![login Screenshot](login_ss.png)
+![home Screenshot](home_ss.png)
+![add income Screenshot](add_income_ss.png)
