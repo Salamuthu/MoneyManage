@@ -22,7 +22,7 @@ MoneyManage is a desktop application built using **Python + Tkinter** that helps
 ---
 
 ## 📂 Project Structure
-`├── add income/
+├── add income/
 ├── add expenses/
 ├── create account/
 ├── home/
@@ -32,7 +32,7 @@ MoneyManage is a desktop application built using **Python + Tkinter** that helps
 ├── db.py
 ├── main.py
 ├── session.py
-└── README.md`
+└── README.md
 
 
 ---
