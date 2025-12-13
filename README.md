@@ -22,6 +22,7 @@ MoneyManage is a desktop application built using **Python + Tkinter** that helps
 ---
 
 ## 📂 Project Structure
+```
 ├── add income/
 ├── add expenses/
 ├── create account/
@@ -33,7 +34,7 @@ MoneyManage is a desktop application built using **Python + Tkinter** that helps
 ├── main.py
 ├── session.py
 └── README.md
-
+```
 
 ---
 
